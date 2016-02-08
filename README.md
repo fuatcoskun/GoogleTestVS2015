@@ -5,7 +5,7 @@ This is a Visual Studio 2015 solution include a simple business logic implementa
 an executable console application uses static library as business logic(ExecutableProject), google test static library (GoogleTest) and
 unit test project which tests the codes in Library project (UnitTest). 
 
-You can open solution file in Visual Studio 2015 and use it without and additional dependencies.
+You can open solution file in Visual Studio 2015 and use it without any additional dependencies.
 
 [Google Test Runner](https://visualstudiogallery.msdn.microsoft.com/cbd1a9b2-790b-4d49-905f-d128ca21d3fb) is recommended for visualization of unit tests.
 
